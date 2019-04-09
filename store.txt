@@ -1,0 +1,11 @@
+LillyDilly 53 1.000000
+M&M 50 0.500000
+StickyNotes 37 0.750000
+Pencils 51 0.750000
+toothBrush 32 1.000000
+toothPaste 16 1.000000
+Dr.Pepper 20 1.000000
+StrawBerryIceCreamBar 74 0.750000
+KitKat 18 1.250000
+Snicker 47 1.000000
+waterBottles 20 1.500000
